@@ -9,4 +9,4 @@ This dashboard is intended for:
 
 Healthcare professionals (doctors, nurses, administrators)
 Researchers
-Anyone interested in gaining insights from healthcare data
+Anyone interested in gaining insights from healthcare data.
